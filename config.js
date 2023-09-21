@@ -21,7 +21,7 @@ global.Owner = ["46493656","46493656"];         //If you want singal number so g
 global.OwnerNumber = ["46493656","46493656"];   //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
 global.ownertag = ["8801928502256"];
 global.OwnerName = "bwapen";
-global.BotName = "XLICON-MD";
+global.BotName = "Bwa_pen_bot";
 global.packname = "X-2.0 Bot";                             //Do not change.
 global.author = "By: Slasher";                               //Do not change.
 global.BotSourceCode = "https://github.com/ahil15/Xlicon-v2"; //Do not change.
@@ -76,17 +76,17 @@ global.ntilink = []
 
 //
 global.mess = {
-    jobdone: 'Here you go...',
-    useradmin: 'Sorry, only *Group Admins* can use this command *Baka*!',
-    botadmin: 'Sorry, i cant execute this command without being an *Admin* of this group.',
-    botowner: 'Only my *Owner* can use this command, Baka!',
+    jobdone: 'HIIIIIIIIII',
+    useradmin: 'OU PA ADMIN MERDE / T ES PAS UN ADMIN',
+    botadmin: 'ERROR J SUIS PAS ADMIN SUR LE GROUPE',
+    botowner: 'il n y a que Mr_Babass qui peut execute cette commande',
     grouponly: 'This command is only made for *Groups*, Baka!',
     privateonly: 'This command is only made for *Private Chat*, Baka!',
     botonly: 'Only the *Bot itself* can use this command!',
     waiting: 'Just Wait...',
     nolink: 'Please provide me *link*, Baka!',
     error: 'An error occurd!',
-    banned: 'You are *Banned* fron using commands!',
+    banned: 'CIAO ADIOS BYE',
     bangc: 'This Group is *Banned* from using Commands!',
     nonsfw: 'Dont be a pervert Baka! This is not a NSFW enabled group!'
     
